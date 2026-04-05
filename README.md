@@ -10,18 +10,13 @@ A sleek, responsive finance dashboard built with React, Tailwind CSS, Javascript
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://moneymap-finance-dashboard.vercel.app) *(Coming Soon)*
+[View Live Demo](https://money-map-steel.vercel.app/)
 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Dashboard](./screenshots/desktop-dashboard.png)
-
-### Mobile View
-![Mobile Dashboard](./screenshots/mobile-dashboard.png)
-
-### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
+<img width="1901" height="909" alt="image" src="https://github.com/user-attachments/assets/6b40759f-3b27-45b7-a1f5-976c722c9315" />
+<img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/69c653a2-f987-4430-b94c-1dc9aa5ae50b" />
 
 ## ✨ Features
 
@@ -63,7 +58,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/moneymap-finance-dashboard.git
+   git clone https://github.com/Abdullah-NI/MoneyMap
    cd moneymap-finance-dashboard
    ```
 
